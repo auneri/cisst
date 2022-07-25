@@ -54,4 +54,6 @@ http://www.cisst.org/cisst/license.txt.
 
 #include <cisstParameterTypes/prmRobotState.h>
 
+#include <cisstParameterTypes/prmStateJoint.h>
+
 #endif // _prmPython_h
